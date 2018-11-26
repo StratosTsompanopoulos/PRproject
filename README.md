@@ -16,7 +16,8 @@ Based on: https://console.bluemix.net/docs/runtimes/nodejs/getting-started.html#
 - npm start
 
 ### Install IBM CLoud CLI:
-Based on the https://console.bluemix.net/docs/cli/index.html#overview
+Based on the https://console.bluemix.net/docs/cli/index.html#overview.
+
 On get-start-node folder, Install & Verify
 - curl -sL https://ibm.biz/idt-installer | bash
 - ibmcloud dev help
